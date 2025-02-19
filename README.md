@@ -10,6 +10,8 @@ A modern, responsive portfolio website featuring a working desk environment them
 - **Interactive Navigation**: Simulates a desktop environment with a laptop screen where browser tabs act as portfolio sections.
 - **Clean Code**: Structured and well-commented codebase for easy customization.
 
+## Live Demo
+ - [Portfolio]
 ## Sections
 1. **Home**: Introduction and welcome screen.
 2. **About Me**: Personal details and professional background.
