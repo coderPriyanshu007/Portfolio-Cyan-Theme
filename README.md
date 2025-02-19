@@ -25,9 +25,11 @@ A modern, responsive portfolio website featuring a working desk environment them
 - **Icons**: Font Awesome
 
 ## Screenshots
-- **Desktop View** ![{376020AF-ED8E-4E9A-A45B-CDDBE8E582F8}](https://github.com/user-attachments/assets/79cd7062-1a6d-4289-80b5-b5cd29ca7b05)
+- **Desktop View** ![{204B1B25-76BA-4A98-BC28-E83290B5E542}](https://github.com/user-attachments/assets/dcc3c350-49b0-405b-a25a-f5ee223e0e29)
+
 - **Mobile View**
-- ![{88BE031D-28F1-4C39-BB9A-7FE9EAA7356C}](https://github.com/user-attachments/assets/dfd49ba0-24b7-4db3-9880-311747c424eb)
+![{5DBB64D8-4B4C-4743-A983-1AD08B1475D6}](https://github.com/user-attachments/assets/76ae0682-61d4-464c-bb9f-e5b216256664)
+
 
 
 ## Acknowledgements
